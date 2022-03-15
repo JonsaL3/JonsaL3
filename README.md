@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ▶️ Some of the technologies I have worked with to a greater or lesser extent are the following:
 
-Programming:
+## 📝 Programming:
 
 - Kotlin
 - Android Studio
@@ -40,7 +40,7 @@ Programming:
 - MariaDB
 - H2
 
-Web Programming:
+## 🗒️ Web Programming:
 
 - HTML
 - CSS
@@ -48,7 +48,7 @@ Web Programming:
 - Materialize
 - JS
 
-System Administration:
+## 🖥️ System Administration:
 
 - Web Servers
 - DHCP
