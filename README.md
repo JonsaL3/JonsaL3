@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📝 Programming:
 
-- Kotlin
+- ![Kotlin](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 - Android Studio
 - Retrofit
 - Java
