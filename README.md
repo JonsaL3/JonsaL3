@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello there!
+
 Hi, I'm Gonzalo, I'm currently specializing in mobile programming, specifically for android, I do not rule out in the future to develop for ios or desktop applications.
 
 I love to design and bring to reality user interfaces, on the other hand, I also like to create everything related to application servers, databases etc...
