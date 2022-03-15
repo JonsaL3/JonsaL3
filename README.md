@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📝 Programming:
 
-- ![Kotlin](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+- ![Kotlin](https://img.shields.io/static/v1?label=<Kotlin>)
 - Android Studio
 - Retrofit
 - Java
