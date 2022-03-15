@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 - ![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-green)
 - ![Retrofit](https://img.shields.io/badge/Android-Retrofit-green)
 
-- ![Java](https://img.shields.io/badge/Java--red)
+- ![Java](https://img.shields.io/badge/Java-Java%20Language-red)
 - ![Springboot](https://img.shields.io/badge/Java-Springboot-red)
 - ![JPA Standard](https://img.shields.io/badge/Java-JPA-red)
 
-- ![C#](https://img.shields.io/badge/C%23%0A--blue)
+- ![C#](https://img.shields.io/badge/C%23%0A-C%23%0A%20Language-blue)
 - ![ASP.NET Core](https://img.shields.io/badge/C%23%0A-ASP.NET%20Core-blue)
 - ![Unity](https://img.shields.io/badge/C%23%0A-Unity-blue)
 
-- ![Python](https://img.shields.io/badge/Python--yellow)
+- ![Python](https://img.shields.io/badge/Python-Python%20Language-yellow)
 
 - ![Microsoft SQL Server](https://img.shields.io/badge/Databases-Microsoft%20SQL%20Server-orange)
 - ![MySQL](https://img.shields.io/badge/Databases-MySQL-orange)
