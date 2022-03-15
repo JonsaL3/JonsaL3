@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JonsaL3/JonsaL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Gonzalo, I'm currently specializing in mobile programming, specifically for android, I do not rule out in the future to develop for ios or desktop applications.
+
+I love to design and bring to reality user interfaces, on the other hand, I also like to create everything related to application servers, databases etc...
+
+In my free time I like to create projects that make my life easier, for example, a telegram bot that reminds me every day something, home automation projects with the raspberry pi among others ... Some of them I will upload here.
+
+Some of the technologies I have worked with to a greater or lesser extent are the following:
+
+
