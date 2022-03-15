@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - ![Python](https://img.shields.io/badge/Python--yellow)
 
-- ![Microsoft SQL Server](https://img.shields.io/badge/Databases-Microsoft SQL Server-orange)
+- ![Microsoft SQL Server](https://img.shields.io/badge/Databases-Microsoft%20SQL%20Server-orange)
 - ![MySQL](https://img.shields.io/badge/Databases-MySQL-orange)
 - ![MongoDB](https://img.shields.io/badge/Databases-MongoDB-orange)
 - ![MariaDB](https://img.shields.io/badge/Databases-MariaDB-orange)
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 
 ## 🖥️ System Administration:
 
-- ![Web Servers](https://img.shields.io/badge/Systems-Web Servers-purple)
+- ![Web Servers](https://img.shields.io/badge/Systems-Web%20Servers-purple)
 - ![DHCP](https://img.shields.io/badge/Systems-DHCP-purple)
 - ![Linux](https://img.shields.io/badge/Systems-Linux-purple)
 - ![Windows](https://img.shields.io/badge/Systems-Windows-purple)
 - ![Nagios](https://img.shields.io/badge/Systems-Nagios-purple)
 - ![DNS](https://img.shields.io/badge/Systems-DNS-purple)
-- ![Windows Domain Controller](https://img.shields.io/badge/Systems-Windows Domain Controller-purple)
+- ![Windows Domain Controller](https://img.shields.io/badge/Systems-Windows%20Domain%20Controller-purple)
 - ![SSH](https://img.shields.io/badge/Systems-SSH-purple)
 - ![FTP](https://img.shields.io/badge/Systems-FTP-purple)
 - ![Mail](https://img.shields.io/badge/Systems-Mail-purple)
