@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 📝 Programming:
 
-- ![Kotlin](https://img.shields.io/badge/Android-Kotlin-green)
+![Kotlin](https://img.shields.io/badge/Android-Kotlin-green)
 - ![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-green)
 - ![Retrofit](https://img.shields.io/badge/Android-Retrofit-green)
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ![MariaDB](https://img.shields.io/badge/Databases-MariaDB-orange)
 - ![H2](https://img.shields.io/badge/Databases-H2-orange)
 
-## 🗒️ Web Programming:
+## 🗒️ Web Developing:
 
 - ![HTML](https://img.shields.io/badge/Web-HTML-pink)
 - ![CSS](https://img.shields.io/badge/Web-CSS-pink)
