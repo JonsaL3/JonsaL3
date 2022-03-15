@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there!
+# Hello there! ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 Hi, I'm Gonzalo, I'm currently specializing in mobile programming, specifically for android, I do not rule out in the future to develop for ios or desktop applications.
 
