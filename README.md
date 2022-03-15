@@ -25,16 +25,21 @@ Here are some ideas to get you started:
 
 ## 📝 Programming:
 
-- ![Kotlin](https://img.shields.io/static/v1?label=<Kotlin>)
-- Android Studio
-- Retrofit
-- Java
-- Springboot
-- ASP.NET Core
-- C#
-- Unity
-- Python
-- Microsoft SQL Server
+- ![Kotlin](https://img.shields.io/badge/Android-Kotlin-green)
+- ![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-green)
+- ![Retrofit](https://img.shields.io/badge/Android-Retrofit-green)
+
+- ![Java](https://img.shields.io/badge/Java-Java-red)
+- ![Springboot](https://img.shields.io/badge/Java-Springboot-red)
+- ![JPA Standard]
+
+- ![C#](https://img.shields.io/badge/C%23%0A--blue)
+- ![ASP.NET Core](https://img.shields.io/badge/C%23%0A-ASP.NET%20Core-blue)
+- ![Unity](https://img.shields.io/badge/C%23%0A-Unity-blue)
+
+- ![Python](https://img.shields.io/badge/Python--yellow)
+
+- ![Microsoft SQL Server]
 - MySQL
 - MongoDB
 - MariaDB
