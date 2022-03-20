@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![JPA Standard](https://img.shields.io/badge/Java-JPA-red)
 
 ![C#](https://img.shields.io/badge/C%23%0A-C%23%0A%20Language-blue)
-![ASP.NET Core](https://img.shields.io/badge/C%23%0A-ASP.NET%20Core-blue)
+![ASP.NET](https://img.shields.io/badge/C%23%0A-ASP.NET-blue)
 ![Unity](https://img.shields.io/badge/C%23%0A-Unity-blue)
 
 ![Python](https://img.shields.io/badge/Python-Python%20Language-yellow)
