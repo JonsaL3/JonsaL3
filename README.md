@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hello there! ✌️
 
-👋 Hi, I'm Gonzalo, I'm currently specializing in mobile programming, specifically for android, I do not rule out in the future to develop for ios or desktop applications, I am studying the superior degree of multiplatform application development and previously I studied the medium degree of microcomputer systems and networks.
+👋 Hi, I'm Gonzalo, I'm currently specializing in mobile programming, specifically for android, I do not rule out in the future to develop for ios or desktop applications (WIP).
 
 🏜️ I love to design and bring to reality user interfaces, on the other hand, I also like to create everything related to application servers, databases etc...
 
-🎡 In my free time I like to create projects that make my life easier, for example, a telegram bot that reminds me every day something, home automation projects with the raspberry pi among others ... Some of them I will upload here.
+🎡 In my spare time, I create applications for my portfolio and/or for publication.
 
 ▶️ Some of the technologies I have worked with to a greater or lesser extent are the following:
 
@@ -27,14 +27,12 @@ Here are some ideas to get you started:
 
 ![Kotlin](https://img.shields.io/badge/Android-Kotlin-green)
 ![Android Studio](https://img.shields.io/badge/Android-Android%20Studio-green)
-![Retrofit](https://img.shields.io/badge/Android-Retrofit-green)
 
 ![Java](https://img.shields.io/badge/Java-Java%20Language-red)
 ![Springboot](https://img.shields.io/badge/Java-Springboot-red)
 ![JPA Standard](https://img.shields.io/badge/Java-JPA-red)
 
 ![C#](https://img.shields.io/badge/C%23%0A-C%23%0A%20Language-blue)
-![ASP.NET](https://img.shields.io/badge/C%23%0A-ASP.NET-blue)
 ![Unity](https://img.shields.io/badge/C%23%0A-Unity-blue)
 
 ![Python](https://img.shields.io/badge/Python-Python%20Language-yellow)
